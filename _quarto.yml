@@ -2,13 +2,19 @@ project:
   type: website
 
 website:
-  title: "Welcome to My Website"
+  title: "An Ly"
+  favicon: profile.jpg
+  description: "An Ly's Profile"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      - text: Profile
+        href: profile.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: cv.qmd
+      - text: Contact
+        href: contact.qmd
 format:
   html:
     theme:
@@ -16,6 +22,5 @@ format:
       - brand
     css: styles.css
     toc: true
-
 
 

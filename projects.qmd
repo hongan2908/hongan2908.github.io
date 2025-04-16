@@ -1,0 +1,111 @@
+---
+title: "Projects"
+format: html
+---
+
+# Projects
+
+## 🍺 Business Simulation: Microbrewery Investment Analysis
+
+- **Course**: AD715 – Strategies and Decision Support  
+- **Tools**: SWOT Analysis, PESTEL, Break-Even Analysis, Sensitivity Analysis  
+- **Description**: Worked on a team consulting project to evaluate the strategic and financial rationale of investing in an in-house microbrewery for a local restaurant.  
+
+**Key Insights:**  
+- Identified goals like revenue growth, brand differentiation, and retention  
+- Conducted market and financial research in the craft beer space  
+- Applied decision tools to assess external/internal factors and ROI  
+- Recommended investment based on long-term profitability and alignment  
+
+---
+
+## 🏙️ Real Estate Analytics for NYC Housing
+
+- **Course**: AD571 – Business Analytics  
+- **Tools**: R Studio, Power BI, Forecasting, Excel Optimization  
+- **Description**: Built a data-driven housing recommendation model to help a client locate affordable housing within 30 minutes of NYC’s Financial District.  
+
+**Key Tasks:**  
+- Filtered listings by price range, size, and parking  
+- Visualized price and square footage trends using Power BI  
+- Forecasted sales and rental values using R  
+- Built an Excel optimization model to prioritize best-fit units  
+
+---
+
+## 📊 Job Market Trends 2024 – Career Analytics & Visualization
+
+- **Course**: AD688 – Web Analytics  
+- **Tools**: Quarto, GitHub, Lightcast, Python, R  
+- **Description**: Team research project using labor market data to analyze AI vs. non-AI job trends, skills demand, salary patterns, and geographic hiring shifts.  
+
+**Key Insights:**  
+- Created a live Quarto-based career research site on GitHub  
+- Explored skill gaps and market shifts due to AI adoption  
+- Designed visualizations on job titles, salaries, and gender gaps  
+- Developed a 3-step career strategy plan  
+
+---
+
+## 🧪 Stickley Adhesives: Capacity Simulation & Optimization
+
+- **Course**: AD605 – Operations Management  
+- **Tools**: Excel Solver, Statistical Simulation  
+- **Description**: Analyzed service system performance and modeled capacity needs for Stickley Adhesives using simulation and optimization.  
+
+**Key Insights:**  
+- Simulated throughput across a 7-step application process  
+- Evaluated staffing reallocation to improve flow  
+- Balanced cost-performance tradeoffs in labor strategy  
+
+---
+
+## 🚇 MBTA System Analysis: Infrastructure & Equity
+
+- **Course**: ENT – Social Impact Strategy  
+- **Tools**: Public Policy Reports, Interviews, Secondary Research  
+- **Description**: Team research evaluating Boston’s MBTA system for access equity, safety, and modernization opportunities.  
+
+**Key Insights:**  
+- Highlighted challenges in underserved communities  
+- Proposed tech upgrades and funding reallocation  
+- Emphasized hybrid solutions (infrastructure + policy)  
+
+---
+
+## 🧫 Animal Testing: Ethical, Scientific, and Policy Debate
+
+- **Project Type**: Independent Research  
+- **Tools**: Literature Review, Scientific Analysis  
+- **Description**: Evaluated the justification and controversy behind the continued use of animals in biomedical research.  
+
+**Key Insights:**  
+- Identified areas where animal testing contributes value  
+- Exposed poor predictive accuracy for human reactions  
+- Critiqued inefficiencies, ethical concerns, and alternatives  
+
+---
+
+## 💊 Ardelyx Market Expansion – Germany
+
+- **Course**: Global Strategy – Pharma Focus  
+- **Tools**: Market Research, Policy Reports, Competitive Analysis  
+- **Description**: Evaluated Germany’s healthcare landscape and proposed a partnership-based entry strategy for Ardelyx.  
+
+**Key Insights:**  
+- CKD cases growing: 9M+ in Germany  
+- Proposed AstraZeneca and Evotec as strategic partners  
+- Outlined regulatory hurdles and drug pricing mechanisms  
+
+---
+
+## 📺 Liberty Mutual Ad Effectiveness (Gen Z Focus)
+
+- **Course**: Marketing Research & Consumer Behavior  
+- **Tools**: Surveys, Sentiment Analysis, YouTube Feedback  
+- **Description**: Team project assessing Liberty Mutual’s ad campaigns and resonance with Gen Z consumers.  
+
+**Key Insights:**  
+- LiMu Emu campaign underperformed on clarity and trust  
+- Statue of Liberty and “Humans” campaigns ranked higher  
+- Advised on Gen Z marketing values: relatability, transparency, and humor  

@@ -1,0 +1,80 @@
+---
+title: "About Me"
+format: html
+---
+
+# 👋 Hi, I'm An Ly
+
+![An Ly – Profile Photo](profile.jpg){width=180px style="border-radius: 12px;"}
+
+I'm a graduate student in **Applied Business Analytics** at Boston University. I earned my Bachelor's degree in **Global Business and Entrepreneurship** from Suffolk University, where I cultivated a passion for international markets and data-driven strategy.
+
+My goal is to become a business analyst in fields like **Finance, Marketing, or Artificial Intelligence**, helping organizations make smarter, faster decisions using data. As a young professional, I’m excited to connect with opportunities that challenge me and help me grow.
+
+---
+
+## 🎯 What I’m Passionate About
+
+- 📊 Using analytics to make smarter business decisions  
+- 🌐 Exploring how data impacts industries like finance, supply chain, and tech  
+- 🧠 Continuously learning from communities, podcasts, and hands-on projects
+
+---
+
+## ✨ Outside of Academics
+
+When I’m not deep into data models or dashboards, you’ll probably find me:
+
+- 🧳 Traveling or enjoying time outdoors  
+- ⚽ Watching Chelsea matches (my all-time favorite team!)  
+- 🏀 Playing sports like soccer and basketball  
+- 🎙️ Tuning into podcasts about business, investing, or soccer news  
+- 🌱 Joining school clubs, networking at business events, or volunteering in the community
+
+I'm always open to learning something new, meeting like-minded people, and growing both personally and professionally.
+
+---
+
+## 📸 Moments That Matter
+
+Here are some snapshots of the amazing people and memories that keep me grounded, inspired, and motivated throughout my journey.
+
+<div class="grid-gallery">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
+
+<img src="friends_snow.jpg" alt="Winter with friends" style="width:100%; border-radius: 12px;" />
+<img src="hiking_group.jpg" alt="Hiking trip" style="width:100%; border-radius: 12px;" />
+<img src="volunteer_team.jpg" alt="Volunteering" style="width:100%; border-radius: 12px;" />
+<img src="tet_photo.jpg" alt="Tet celebration" style="width:100%; border-radius: 12px;" />
+
+</div>
+</div>
+
+---
+
+## 🏞️ Life Beyond the Classroom
+
+Whether I’m skiing in the winter, exploring art, or traveling to new places, I believe experiences outside the classroom shape who I am just as much as my academic journey.
+
+<div class="grid-gallery">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
+
+<img src="ski_day.jpg" alt="Skiing adventure" style="width:100%; border-radius: 12px;" />
+<img src="museum_fun.jpg" alt="Museum curiosity" style="width:100%; border-radius: 12px;" />
+<img src="dc_trip.jpg" alt="Washington D.C. trip" style="width:100%; border-radius: 12px;" />
+<img src="fall_hike.jpg" alt="Hiking in fall" style="width:100%; border-radius: 12px;" />
+
+</div>
+</div>
+
+---
+
+## 🤝 Let’s Connect
+
+Feel free to explore the rest of my portfolio or reach out via:
+
+- 📧 [honganly@bu.edu](mailto:honganly@bu.edu)  
+- 🔗 [LinkedIn – an-ly](https://www.linkedin.com/in/an-ly/)  
+- 💻 [GitHub – hongan2908](https://github.com/hongan2908)
+
+I'd love to connect!

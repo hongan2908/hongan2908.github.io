@@ -1,14 +1,52 @@
 ---
-title: "Welcome to My Website"
-author: An Ly
-date: 2025-02-03
-format:
-  html:
-    theme: journal
-    toc: true
+title: "An Ly"
+format: html
+toc: true
 ---
-# Hello, World!  
-Welcome to my Quarto website.
 
+<div class="two-column">
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<div class="text-block">
+  
+### 👋 Hi, I'm An Ly  
+_“The world moves fast, but I lead with positivity.”_
+
+I’m a graduate student in **Applied Business Analytics** at Boston University and hold a Bachelor’s in **Global Business and Entrepreneurship** from Suffolk University.
+
+I'm passionate about using data to help organizations make smarter decisions — especially in areas like **Finance, Marketing, and AI**.
+
+As a young professional, I’m actively exploring job opportunities where I can grow, contribute, and create meaningful impact through data.
+
+</div>
+
+<div class="image-block">
+  <img src="profile.jpg" alt="An Ly" class="profile-pic">
+  
+  [📖 See More About Me](profile.qmd){.button .btn-primary}
+</div>
+
+</div>
+
+---
+
+# 💼 Projects
+
+Welcome to my project showcase! These projects demonstrate my skills in analytics, strategy, visualization, and business modeling.
+
+[📁 View Projects](projects.qmd){.button .btn-outline-primary}
+
+---
+
+# 📄 CV
+
+Here's a summary of my education, experience, and technical skills.
+
+[📄 View CV](cv.qmd){.button .btn-outline-primary}
+
+---
+
+# 📬 Contact
+
+Let’s connect! I’m always open to new opportunities, collaborations, and conversations.
+
+[📬 Contact Me](contact.qmd){.button .btn-outline-secondary}

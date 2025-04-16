@@ -1,0 +1,59 @@
+---
+title: "Resume"
+format: html
+---
+
+
+📄 **Download Full Resume (PDF)**: [An Ly – Resume](AnLy_Resume.pdf)
+
+---
+
+## 🎓 Education
+
+**Boston University – Metropolitan College**  
+*M.S. in Applied Business Analytics*  
+_Expected Graduation: 2026_
+
+**Suffolk University**  
+*B.S. in Global Business and Entrepreneurship*  
+_Graduated: 2023_
+
+---
+
+## 💼 Experience Highlights
+
+- **NY Local Grocery** – Forecasted inventory with 94% accuracy using Random Forest  
+- **Bee Capital** – Created $2M investment strategy reports  
+- **Lam An LLC** – Supported 5 supply chain managers and analyzed material trends  
+- **Cau Dat Coffee Shop** – Managed payroll and compliance for 18+ employees  
+- **Hang Thuan LLC** – Led product pricing strategy and client orders  
+
+---
+
+## 🔬 Research & Projects
+
+- **Liberty Mutual Ad Effectiveness (Gen Z Focus)**  
+- **MBTA System Reliability & Cost Efficiency Analysis**  
+- **Real Estate Prediction (R + Power BI)**  
+- **Animal Testing Ethics & Science Report**  
+- **Ardelyx Expansion Strategy – Germany (Partnership Analysis)**  
+
+(See full details on the [Projects page](projects.qmd))
+
+---
+
+## 💡 Skills
+
+**Technical:** Python, R, SQL, Excel, Tableau, Power BI, Quarto, Git  
+**Analytical:** Forecasting, Strategy, KPI Modeling, Visualization  
+**Languages:** English (fluent), Vietnamese (fluent)
+
+---
+
+## 🌐 Contact
+
+📧 Email: honganly@bu.edu  
+🔗 - [linkedin.com/in/an-ly](https://www.linkedin.com/in/an-ly/) _(an-ly)
+💻 [github.com/hongan2908](https://github.com/hongan2908) _(hongan2908)
+
+---
