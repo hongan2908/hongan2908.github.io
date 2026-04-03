@@ -11,17 +11,16 @@ toc: true
 ### 👋 Hi, I'm An Ly  
 _“The world moves fast, but I lead with positivity.”_
 
-I’m a graduate student in **Applied Business Analytics** at Boston University and hold a Bachelor’s in **Global Business and Entrepreneurship** from Suffolk University.
+I’m a graduate student in **Applied Business Analytics** at [Boston University](https://www.bu.edu), and I hold a Bachelor’s degree in **Global Business and Entrepreneurship** from [Suffolk University](https://www.suffolk.edu).
 
-I'm passionate about using data to help organizations make smarter decisions — especially in areas like **Finance, Marketing, and AI**.
+I am passionate about leveraging data to support strategic decision-making and enhance organizational performance. My areas of interest include **Product analytics, Data visualization & dashboarding (e.g., Tableau, Power BI), Supply chain & operations analytics, Financial analytics & forecasting, Marketing analytics & customer insights, etc.**
 
-As a young professional, I’m actively exploring job opportunities where I can grow, contribute, and create meaningful impact through data.
+As an early-career professional, I am actively seeking opportunities where I can apply analytical thinking and technical skills to drive data-informed decisions and deliver measurable business impact.
 
 </div>
 
 <div class="image-block">
   <img src="profile.jpg" alt="An Ly" class="profile-pic">
-  
   [📖 See More About Me](profile.qmd){.button .btn-primary}
 </div>
 

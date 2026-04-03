@@ -3,40 +3,38 @@ title: "Resume"
 format: html
 ---
 
-
-📄 **Download Full Resume (PDF)**: [An Ly – Resume](AnLy_Resume.pdf)
-
----
-
 ## 🎓 Education
 
 **Boston University – Metropolitan College**  
 *M.S. in Applied Business Analytics*  
-_Expected Graduation: 2026_
+_Expected: January 2026_
 
 **Suffolk University**  
-*B.S. in Global Business and Entrepreneurship*  
-_Graduated: 2023_
+*B.S. in Business Administration (Global Business & Entrepreneurship)*  
+_Graduated: December 2023_
+
+---
+
+# 🧾 Professional Summary
+
+Data-driven business analytics professional with hands-on experience in Python, SQL, and statistical modeling. Skilled in analyzing large datasets, building predictive models, and translating complex data into actionable business insights. Proven ability to support data-informed decision-making through analytical problem-solving, data visualization, and business-focused communication.
 
 ---
 
 ## 💼 Experience Highlights
 
-- **NY Local Grocery** – Forecasted inventory with 94% accuracy using Random Forest  
-- **Bee Capital** – Created $2M investment strategy reports  
-- **Lam An LLC** – Supported 5 supply chain managers and analyzed material trends  
-- **Cau Dat Coffee Shop** – Managed payroll and compliance for 18+ employees  
-- **Hang Thuan LLC** – Led product pricing strategy and client orders  
+- **Lam An LLC** – Supported supply chain operations and analyzed material usage trends to improve reporting and decision-making  
+- **Hang Thuan LLC** – Developed pricing strategies and managed client relationships, contributing to sales performance during market disruption  
 
 ---
 
-## 🔬 Research & Projects
+## 🔬 Projects & Research
 
-- **Liberty Mutual Ad Effectiveness (Gen Z Focus)**  
-- **MBTA System Reliability & Cost Efficiency Analysis**  
-- **Real Estate Prediction (R + Power BI)**  
-- **Animal Testing Ethics & Science Report**  
-- **Ardelyx Expansion Strategy – Germany (Partnership Analysis)**  
+- **Salary & Compensation Trends Analysis (Python, AWS)** – Analyzed 71,000+ job records to evaluate compensation patterns and workforce trends  
+- **Sales & Customer Analytics (SQL, Python)** – Analyzed 1,500+ transactions to identify revenue drivers and customer segments  
+- **Housing Market Analysis (R, Random Forest)** – Built predictive models to estimate property prices and support pricing strategy  
+- **MBTA System Analysis** – Identified opportunities for 10% cost reduction and 15% efficiency improvement using operational data  
+- **Microbrewery Investment Analysis** – Conducted financial modeling and feasibility analysis for a $150K business investment  
 
 (See full details on the [Projects page](projects.qmd))
 
@@ -44,16 +42,16 @@ _Graduated: 2023_
 
 ## 💡 Skills
 
-**Technical:** Python, R, SQL, Excel, Tableau, Power BI, Quarto, Git  
-**Analytical:** Forecasting, Strategy, KPI Modeling, Visualization  
-**Languages:** English (fluent), Vietnamese (fluent)
+**Technical:** Python, SQL, R, Excel, Tableau, Power BI, Quarto, GitHub  
+**Analytical:** Data Analysis, Forecasting, Statistical Modeling, Data Visualization, Business Strategy  
+**Languages:** English (Fluent), Vietnamese (Fluent)
 
 ---
 
 ## 🌐 Contact
 
-📧 Email: honganly@bu.edu  
-🔗 - [linkedin.com/in/an-ly](https://www.linkedin.com/in/an-ly/) _(an-ly)
-💻 [github.com/hongan2908](https://github.com/hongan2908) _(hongan2908)
-
+📧 Email: honganly2908@gmail.com, honganly@bu.edu 
+📞 Phone: (857) 284-2121 
+🔗 LinkedIn: https://www.linkedin.com/in/an-ly  
+💻 GitHub: https://github.com/hongan2908
 ---

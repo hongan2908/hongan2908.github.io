@@ -7,32 +7,31 @@ format: html
 
 ![An Ly – Profile Photo](profile.jpg){width=180px style="border-radius: 12px;"}
 
-I'm a graduate student in **Applied Business Analytics** at Boston University. I earned my Bachelor's degree in **Global Business and Entrepreneurship** from Suffolk University, where I cultivated a passion for international markets and data-driven strategy.
+I am an aspiring business analytics professional with hands-on experience in **data analysis, statistical modeling, and business intelligence**. I have worked with tools such as **Python, SQL, R, and data visualization platforms** to analyze large datasets, identify trends, and translate complex information into actionable business insights.
 
-My goal is to become a business analyst in fields like **Finance, Marketing, or Artificial Intelligence**, helping organizations make smarter, faster decisions using data. As a young professional, I’m excited to connect with opportunities that challenge me and help me grow.
+I am particularly strong in analytical thinking, problem-solving, and communicating data-driven insights in a clear and business-focused manner. I thrive in environments that require critical thinking and continuous learning, and I am committed to further developing my technical and analytical capabilities through real-world applications.
+
+I am open to opportunities across diverse industries and business functions, where I can contribute to data-driven decision-making and create meaningful impact.
 
 ---
 
 ## 🎯 What I’m Passionate About
 
-- 📊 Using analytics to make smarter business decisions  
-- 🌐 Exploring how data impacts industries like finance, supply chain, and tech  
-- 🧠 Continuously learning from communities, podcasts, and hands-on projects
-
----
+- 📊 Applying data analytics to solve business problems and optimize decision-making
+- 🌐 Exploring the role of data in improving efficiency, performance, and strategic outcomes across industries
+- 🧠 Actively expanding my expertise through practical experience, continuous learning, and engagement with the analytics community
 
 ## ✨ Outside of Academics
 
-When I’m not deep into data models or dashboards, you’ll probably find me:
+Outside of working with data, you’ll probably find me:
 
-- 🧳 Traveling or enjoying time outdoors  
-- ⚽ Watching Chelsea matches (my all-time favorite team!)  
+- 🧳 Exploring new cultures and environments through travel and outdoor activities  
+- ⚽ Keeping up with soccer and enjoying live matches or highlights
 - 🏀 Playing sports like soccer and basketball  
 - 🎙️ Tuning into podcasts about business, investing, or soccer news  
-- 🌱 Joining school clubs, networking at business events, or volunteering in the community
+- 🌱 Getting involved in student organizations, networking events, or community activities
 
-I'm always open to learning something new, meeting like-minded people, and growing both personally and professionally.
-
+I’m always eager to learn, connect with like-minded individuals, and continuously grow both personally and professionally.
 ---
 
 ## 📸 Moments That Matter

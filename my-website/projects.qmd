@@ -5,107 +5,68 @@ format: html
 
 # Projects
 
-## 🍺 Business Simulation: Microbrewery Investment Analysis
+## Northwind Traders Sales & Customer Analytics
 
-- **Course**: AD715 – Strategies and Decision Support  
-- **Tools**: SWOT Analysis, PESTEL, Break-Even Analysis, Sensitivity Analysis  
-- **Description**: Worked on a team consulting project to evaluate the strategic and financial rationale of investing in an in-house microbrewery for a local restaurant.  
+Boston, MA | Aug 2025 – Dec 2025
+**Tools**: Python (Jupyter Notebook), SQL
 
-**Key Insights:**  
-- Identified goals like revenue growth, brand differentiation, and retention  
-- Conducted market and financial research in the craft beer space  
-- Applied decision tools to assess external/internal factors and ROI  
-- Recommended investment based on long-term profitability and alignment  
-
----
-
-## 🏙️ Real Estate Analytics for NYC Housing
-
-- **Course**: AD571 – Business Analytics  
-- **Tools**: R Studio, Power BI, Forecasting, Excel Optimization  
-- **Description**: Built a data-driven housing recommendation model to help a client locate affordable housing within 30 minutes of NYC’s Financial District.  
-
-**Key Tasks:**  
-- Filtered listings by price range, size, and parking  
-- Visualized price and square footage trends using Power BI  
-- Forecasted sales and rental values using R  
-- Built an Excel optimization model to prioritize best-fit units  
+- Developed and executed complex SQL queries within Python to extract and analyze data from a relational database
+- Analyzed 1,500+ sales transactions across customers, employees, and product categories
+- Evaluated sales performance, revenue trends, and customer purchasing behavior
+- Built dashboards and visualizations to highlight revenue drivers and customer segments
+- Translated analytical findings into actionable insights to support sales strategy and decision-making
 
 ---
 
-## 📊 Job Market Trends 2024 – Career Analytics & Visualization
+## Salary & Compensation Trends Analysis — U.S. Job Market
 
-- **Course**: AD688 – Web Analytics  
-- **Tools**: Quarto, GitHub, Lightcast, Python, R  
-- **Description**: Team research project using labor market data to analyze AI vs. non-AI job trends, skills demand, salary patterns, and geographic hiring shifts.  
+Boston, MA | Mar 2025 – May 2025
+**Tools**: Python, AWS EC2, SQL, GitHub, VS Code
 
-**Key Insights:**  
-- Created a live Quarto-based career research site on GitHub  
-- Explored skill gaps and market shifts due to AI adoption  
-- Designed visualizations on job titles, salaries, and gender gaps  
-- Developed a 3-step career strategy plan  
-
----
-
-## 🧪 Stickley Adhesives: Capacity Simulation & Optimization
-
-- **Course**: AD605 – Operations Management  
-- **Tools**: Excel Solver, Statistical Simulation  
-- **Description**: Analyzed service system performance and modeled capacity needs for Stickley Adhesives using simulation and optimization.  
-
-**Key Insights:**  
-- Simulated throughput across a 7-step application process  
-- Evaluated staffing reallocation to improve flow  
-- Balanced cost-performance tradeoffs in labor strategy  
+- Analyzed 71,000+ job records to evaluate salary and compensation trends across industries, regions, and work arrangements
+- Deployed a cloud-based analytics environment using AWS EC2 to enable scalable data processing
+- Conducted exploratory data analysis (EDA) to identify patterns in compensation, remote work trends, and geographic differences
+- Assessed the impact of experience, role type, and technical skills on salary outcomes
+- Developed analytical models for salary benchmarking and trend forecasting, delivering actionable workforce insights
 
 ---
 
-## 🚇 MBTA System Analysis: Infrastructure & Equity
+## Housing Market Price & Demand Analysis — Queens, New York
 
-- **Course**: ENT – Social Impact Strategy  
-- **Tools**: Public Policy Reports, Interviews, Secondary Research  
-- **Description**: Team research evaluating Boston’s MBTA system for access equity, safety, and modernization opportunities.  
+Boston, MA | Oct 2024 – Dec 2024
+**Tools**: Power BI, Random Forest (R), Forecasting (R), Ggplot 2 (R), Predicting Modeling (R)
 
-**Key Insights:**  
-- Highlighted challenges in underserved communities  
-- Proposed tech upgrades and funding reallocation  
-- Emphasized hybrid solutions (infrastructure + policy)  
-
----
-
-## 🧫 Animal Testing: Ethical, Scientific, and Policy Debate
-
-- **Project Type**: Independent Research  
-- **Tools**: Literature Review, Scientific Analysis  
-- **Description**: Evaluated the justification and controversy behind the continued use of animals in biomedical research.  
-
-**Key Insights:**  
-- Identified areas where animal testing contributes value  
-- Exposed poor predictive accuracy for human reactions  
-- Critiqued inefficiencies, ethical concerns, and alternatives  
+- Analyzed 2,500+ residential property records to assess housing prices and demand trends
+- Built and evaluated Random Forest models to estimate property values and identify key drivers
+- Performed forecasting to assess short-term market trends and expected sale outcomes
+- Cleaned and validated datasets to improve data quality and model performance
+- Delivered insights to support pricing strategy and market segmentation  
 
 ---
 
-## 💊 Ardelyx Market Expansion – Germany
+## MBTA System Analysis — Reliability & Efficiency Optimization
 
-- **Course**: Global Strategy – Pharma Focus  
-- **Tools**: Market Research, Policy Reports, Competitive Analysis  
-- **Description**: Evaluated Germany’s healthcare landscape and proposed a partnership-based entry strategy for Ardelyx.  
+Boston, MA | Jan 2025 – Mar 2025
+**Tools**: Data Analysis, Cost-Benefit Analysis, Performance Metrics
 
-**Key Insights:**  
-- CKD cases growing: 9M+ in Germany  
-- Proposed AstraZeneca and Evotec as strategic partners  
-- Outlined regulatory hurdles and drug pricing mechanisms  
+- Analyzed operational data from 50 bus routes to evaluate service reliability and delays
+- Identified opportunities for 10% cost reduction and 15% efficiency improvement
+- Developed performance metrics and monitoring frameworks for transit operations
+- Integrated multiple data sources to support structured reporting
+- Provided insights to support data-driven operational and planning decisions
 
 ---
 
-## 📺 Liberty Mutual Ad Effectiveness (Gen Z Focus)
+## Investment Feasibility Analysis — In-House Microbrewery
 
-- **Course**: Marketing Research & Consumer Behavior  
-- **Tools**: Surveys, Sentiment Analysis, YouTube Feedback  
-- **Description**: Team project assessing Liberty Mutual’s ad campaigns and resonance with Gen Z consumers.  
+Boston, MA | Aug 2024 – Nov 2024
+**Tools**: Financial Modeling, Break-Even Analysis, Sensitivity Analysis, Market Research
 
-**Key Insights:**  
-- LiMu Emu campaign underperformed on clarity and trust  
-- Statue of Liberty and “Humans” campaigns ranked higher  
-- Advised on Gen Z marketing values: relatability, transparency, and humor  
+- Conducted a 3-year financial feasibility analysis for a $150K investment in a microbrewery
+- Modeled production capacity of 476K+ pints annually and evaluated operational feasibility
+- Built demand forecasts covering 400K+ projected units over three years
+- Performed market analysis and customer segmentation to support positioning strategy
+- Delivered investment recommendations based on profitability and long-term growth potential
+
+
+
