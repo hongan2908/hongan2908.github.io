@@ -1,0 +1,163 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: AD715 – Strategies and Decision Support\n\nTools: SWOT Analysis, PESTEL, Break-Even Analysis, Sensitivity Analysis\n\nDescription: Worked on a team consulting project to evaluate the strategic and financial rationale of investing in an in-house microbrewery for a local restaurant.\n\nKey Insights:\n- Identified goals like revenue growth, brand differentiation, and retention\n- Conducted market and financial research in the craft beer space\n- Applied decision tools to assess external/internal factors and ROI\n- Recommended investment based on long-term profitability and alignment\n\n\n\n\n\nCourse: AD571 – Business Analytics\n\nTools: R Studio, Power BI, Forecasting, Excel Optimization\n\nDescription: Built a data-driven housing recommendation model to help a client locate affordable housing within 30 minutes of NYC’s Financial District.\n\nKey Tasks:\n- Filtered listings by price range, size, and parking\n- Visualized price and square footage trends using Power BI\n- Forecasted sales and rental values using R\n- Built an Excel optimization model to prioritize best-fit units\n\n\n\n\n\nCourse: AD688 – Web Analytics\n\nTools: Quarto, GitHub, Lightcast, Python, R\n\nDescription: Team research project using labor market data to analyze AI vs. non-AI job trends, skills demand, salary patterns, and geographic hiring shifts.\n\nKey Insights:\n- Created a live Quarto-based career research site on GitHub\n- Explored skill gaps and market shifts due to AI adoption\n- Designed visualizations on job titles, salaries, and gender gaps\n- Developed a 3-step career strategy plan\n\n\n\n\n\nCourse: AD605 – Operations Management\n\nTools: Excel Solver, Statistical Simulation\n\nDescription: Analyzed service system performance and modeled capacity needs for Stickley Adhesives using simulation and optimization.\n\nKey Insights:\n- Simulated throughput across a 7-step application process\n- Evaluated staffing reallocation to improve flow\n- Balanced cost-performance tradeoffs in labor strategy\n\n\n\n\n\nCourse: ENT – Social Impact Strategy\n\nTools: Public Policy Reports, Interviews, Secondary Research\n\nDescription: Team research evaluating Boston’s MBTA system for access equity, safety, and modernization opportunities.\n\nKey Insights:\n- Highlighted challenges in underserved communities\n- Proposed tech upgrades and funding reallocation\n- Emphasized hybrid solutions (infrastructure + policy)\n\n\n\n\n\nProject Type: Independent Research\n\nTools: Literature Review, Scientific Analysis\n\nDescription: Evaluated the justification and controversy behind the continued use of animals in biomedical research.\n\nKey Insights:\n- Identified areas where animal testing contributes value\n- Exposed poor predictive accuracy for human reactions\n- Critiqued inefficiencies, ethical concerns, and alternatives\n\n\n\n\n\nCourse: Global Strategy – Pharma Focus\n\nTools: Market Research, Policy Reports, Competitive Analysis\n\nDescription: Evaluated Germany’s healthcare landscape and proposed a partnership-based entry strategy for Ardelyx.\n\nKey Insights:\n- CKD cases growing: 9M+ in Germany\n- Proposed AstraZeneca and Evotec as strategic partners\n- Outlined regulatory hurdles and drug pricing mechanisms\n\n\n\n\n\nCourse: Marketing Research & Consumer Behavior\n\nTools: Surveys, Sentiment Analysis, YouTube Feedback\n\nDescription: Team project assessing Liberty Mutual’s ad campaigns and resonance with Gen Z consumers.\n\nKey Insights:\n- LiMu Emu campaign underperformed on clarity and trust\n- Statue of Liberty and “Humans” campaigns ranked higher\n- Advised on Gen Z marketing values: relatability, transparency, and humor"
+  },
+  {
+    "objectID": "projects.html#business-simulation-microbrewery-investment-analysis",
+    "href": "projects.html#business-simulation-microbrewery-investment-analysis",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: AD715 – Strategies and Decision Support\n\nTools: SWOT Analysis, PESTEL, Break-Even Analysis, Sensitivity Analysis\n\nDescription: Worked on a team consulting project to evaluate the strategic and financial rationale of investing in an in-house microbrewery for a local restaurant.\n\nKey Insights:\n- Identified goals like revenue growth, brand differentiation, and retention\n- Conducted market and financial research in the craft beer space\n- Applied decision tools to assess external/internal factors and ROI\n- Recommended investment based on long-term profitability and alignment"
+  },
+  {
+    "objectID": "projects.html#real-estate-analytics-for-nyc-housing",
+    "href": "projects.html#real-estate-analytics-for-nyc-housing",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: AD571 – Business Analytics\n\nTools: R Studio, Power BI, Forecasting, Excel Optimization\n\nDescription: Built a data-driven housing recommendation model to help a client locate affordable housing within 30 minutes of NYC’s Financial District.\n\nKey Tasks:\n- Filtered listings by price range, size, and parking\n- Visualized price and square footage trends using Power BI\n- Forecasted sales and rental values using R\n- Built an Excel optimization model to prioritize best-fit units"
+  },
+  {
+    "objectID": "projects.html#job-market-trends-2024-career-analytics-visualization",
+    "href": "projects.html#job-market-trends-2024-career-analytics-visualization",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: AD688 – Web Analytics\n\nTools: Quarto, GitHub, Lightcast, Python, R\n\nDescription: Team research project using labor market data to analyze AI vs. non-AI job trends, skills demand, salary patterns, and geographic hiring shifts.\n\nKey Insights:\n- Created a live Quarto-based career research site on GitHub\n- Explored skill gaps and market shifts due to AI adoption\n- Designed visualizations on job titles, salaries, and gender gaps\n- Developed a 3-step career strategy plan"
+  },
+  {
+    "objectID": "projects.html#stickley-adhesives-capacity-simulation-optimization",
+    "href": "projects.html#stickley-adhesives-capacity-simulation-optimization",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: AD605 – Operations Management\n\nTools: Excel Solver, Statistical Simulation\n\nDescription: Analyzed service system performance and modeled capacity needs for Stickley Adhesives using simulation and optimization.\n\nKey Insights:\n- Simulated throughput across a 7-step application process\n- Evaluated staffing reallocation to improve flow\n- Balanced cost-performance tradeoffs in labor strategy"
+  },
+  {
+    "objectID": "projects.html#mbta-system-analysis-infrastructure-equity",
+    "href": "projects.html#mbta-system-analysis-infrastructure-equity",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: ENT – Social Impact Strategy\n\nTools: Public Policy Reports, Interviews, Secondary Research\n\nDescription: Team research evaluating Boston’s MBTA system for access equity, safety, and modernization opportunities.\n\nKey Insights:\n- Highlighted challenges in underserved communities\n- Proposed tech upgrades and funding reallocation\n- Emphasized hybrid solutions (infrastructure + policy)"
+  },
+  {
+    "objectID": "projects.html#animal-testing-ethical-scientific-and-policy-debate",
+    "href": "projects.html#animal-testing-ethical-scientific-and-policy-debate",
+    "title": "Projects",
+    "section": "",
+    "text": "Project Type: Independent Research\n\nTools: Literature Review, Scientific Analysis\n\nDescription: Evaluated the justification and controversy behind the continued use of animals in biomedical research.\n\nKey Insights:\n- Identified areas where animal testing contributes value\n- Exposed poor predictive accuracy for human reactions\n- Critiqued inefficiencies, ethical concerns, and alternatives"
+  },
+  {
+    "objectID": "projects.html#ardelyx-market-expansion-germany",
+    "href": "projects.html#ardelyx-market-expansion-germany",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: Global Strategy – Pharma Focus\n\nTools: Market Research, Policy Reports, Competitive Analysis\n\nDescription: Evaluated Germany’s healthcare landscape and proposed a partnership-based entry strategy for Ardelyx.\n\nKey Insights:\n- CKD cases growing: 9M+ in Germany\n- Proposed AstraZeneca and Evotec as strategic partners\n- Outlined regulatory hurdles and drug pricing mechanisms"
+  },
+  {
+    "objectID": "projects.html#liberty-mutual-ad-effectiveness-gen-z-focus",
+    "href": "projects.html#liberty-mutual-ad-effectiveness-gen-z-focus",
+    "title": "Projects",
+    "section": "",
+    "text": "Course: Marketing Research & Consumer Behavior\n\nTools: Surveys, Sentiment Analysis, YouTube Feedback\n\nDescription: Team project assessing Liberty Mutual’s ad campaigns and resonance with Gen Z consumers.\n\nKey Insights:\n- LiMu Emu campaign underperformed on clarity and trust\n- Statue of Liberty and “Humans” campaigns ranked higher\n- Advised on Gen Z marketing values: relatability, transparency, and humor"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "An Ly",
+    "section": "",
+    "text": "👋 Hi, I’m An Ly\n“The world moves fast, but I lead with positivity.”\nI’m a graduate student in Applied Business Analytics at Boston University and hold a Bachelor’s in Global Business and Entrepreneurship from Suffolk University.\nI’m passionate about using data to help organizations make smarter decisions — especially in areas like Finance, Marketing, and AI.\nAs a young professional, I’m actively exploring job opportunities where I can grow, contribute, and create meaningful impact through data.\n\n\n\n📖 See More About Me\n\n\n\n\n💼 Projects\nWelcome to my project showcase! These projects demonstrate my skills in analytics, strategy, visualization, and business modeling.\n📁 View Projects\n\n\n\n📄 CV\nHere’s a summary of my education, experience, and technical skills.\n📄 View CV\n\n\n\n📬 Contact\nLet’s connect! I’m always open to new opportunities, collaborations, and conversations.\n📬 Contact Me"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact Me\n\n📧 Email\n\nhonganly@bu.edu\n\nhonganly2908@gmail.com\n\n\n\n🔗 LinkedIn\n\nlinkedin.com/in/an-ly (an-ly)\n\n\n\n💻 GitHub\n\ngithub.com/hongan2908 (hongan2908)"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Resume",
+    "section": "",
+    "text": "📄 Download Full Resume (PDF): An Ly – Resume"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Resume",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nBoston University – Metropolitan College\nM.S. in Applied Business Analytics\nExpected Graduation: 2026\nSuffolk University\nB.S. in Global Business and Entrepreneurship\nGraduated: 2023"
+  },
+  {
+    "objectID": "cv.html#experience-highlights",
+    "href": "cv.html#experience-highlights",
+    "title": "Resume",
+    "section": "💼 Experience Highlights",
+    "text": "💼 Experience Highlights\n\nNY Local Grocery – Forecasted inventory with 94% accuracy using Random Forest\n\nBee Capital – Created $2M investment strategy reports\n\nLam An LLC – Supported 5 supply chain managers and analyzed material trends\n\nCau Dat Coffee Shop – Managed payroll and compliance for 18+ employees\n\nHang Thuan LLC – Led product pricing strategy and client orders"
+  },
+  {
+    "objectID": "cv.html#research-projects",
+    "href": "cv.html#research-projects",
+    "title": "Resume",
+    "section": "🔬 Research & Projects",
+    "text": "🔬 Research & Projects\n\nLiberty Mutual Ad Effectiveness (Gen Z Focus)\n\nMBTA System Reliability & Cost Efficiency Analysis\n\nReal Estate Prediction (R + Power BI)\n\nAnimal Testing Ethics & Science Report\n\nArdelyx Expansion Strategy – Germany (Partnership Analysis)\n\n(See full details on the Projects page)"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Resume",
+    "section": "💡 Skills",
+    "text": "💡 Skills\nTechnical: Python, R, SQL, Excel, Tableau, Power BI, Quarto, Git\nAnalytical: Forecasting, Strategy, KPI Modeling, Visualization\nLanguages: English (fluent), Vietnamese (fluent)"
+  },
+  {
+    "objectID": "cv.html#contact",
+    "href": "cv.html#contact",
+    "title": "Resume",
+    "section": "🌐 Contact",
+    "text": "🌐 Contact\n📧 Email: honganly@bu.edu\n🔗 - linkedin.com/in/an-ly (an-ly) 💻 github.com/hongan2908 (hongan2908)"
+  },
+  {
+    "objectID": "profile.html",
+    "href": "profile.html",
+    "title": "About Me",
+    "section": "",
+    "text": "An Ly – Profile Photo\n\n\nI’m a graduate student in Applied Business Analytics at Boston University. I earned my Bachelor’s degree in Global Business and Entrepreneurship from Suffolk University, where I cultivated a passion for international markets and data-driven strategy.\nMy goal is to become a business analyst in fields like Finance, Marketing, or Artificial Intelligence, helping organizations make smarter, faster decisions using data. As a young professional, I’m excited to connect with opportunities that challenge me and help me grow.\n\n\n\n\n📊 Using analytics to make smarter business decisions\n\n🌐 Exploring how data impacts industries like finance, supply chain, and tech\n\n🧠 Continuously learning from communities, podcasts, and hands-on projects\n\n\n\n\n\nWhen I’m not deep into data models or dashboards, you’ll probably find me:\n\n🧳 Traveling or enjoying time outdoors\n\n⚽ Watching Chelsea matches (my all-time favorite team!)\n\n🏀 Playing sports like soccer and basketball\n\n🎙️ Tuning into podcasts about business, investing, or soccer news\n\n🌱 Joining school clubs, networking at business events, or volunteering in the community\n\nI’m always open to learning something new, meeting like-minded people, and growing both personally and professionally.\n\n\n\n\nHere are some snapshots of the amazing people and memories that keep me grounded, inspired, and motivated throughout my journey.\n\n\n   \n\n\n\n\n\n\nWhether I’m skiing in the winter, exploring art, or traveling to new places, I believe experiences outside the classroom shape who I am just as much as my academic journey.\n\n\n   \n\n\n\n\n\n\nFeel free to explore the rest of my portfolio or reach out via:\n\n📧 honganly@bu.edu\n\n🔗 LinkedIn – an-ly\n\n💻 GitHub – hongan2908\n\nI’d love to connect!"
+  },
+  {
+    "objectID": "profile.html#what-im-passionate-about",
+    "href": "profile.html#what-im-passionate-about",
+    "title": "About Me",
+    "section": "",
+    "text": "📊 Using analytics to make smarter business decisions\n\n🌐 Exploring how data impacts industries like finance, supply chain, and tech\n\n🧠 Continuously learning from communities, podcasts, and hands-on projects"
+  },
+  {
+    "objectID": "profile.html#outside-of-academics",
+    "href": "profile.html#outside-of-academics",
+    "title": "About Me",
+    "section": "",
+    "text": "When I’m not deep into data models or dashboards, you’ll probably find me:\n\n🧳 Traveling or enjoying time outdoors\n\n⚽ Watching Chelsea matches (my all-time favorite team!)\n\n🏀 Playing sports like soccer and basketball\n\n🎙️ Tuning into podcasts about business, investing, or soccer news\n\n🌱 Joining school clubs, networking at business events, or volunteering in the community\n\nI’m always open to learning something new, meeting like-minded people, and growing both personally and professionally."
+  },
+  {
+    "objectID": "profile.html#moments-that-matter",
+    "href": "profile.html#moments-that-matter",
+    "title": "About Me",
+    "section": "",
+    "text": "Here are some snapshots of the amazing people and memories that keep me grounded, inspired, and motivated throughout my journey."
+  },
+  {
+    "objectID": "profile.html#life-beyond-the-classroom",
+    "href": "profile.html#life-beyond-the-classroom",
+    "title": "About Me",
+    "section": "",
+    "text": "Whether I’m skiing in the winter, exploring art, or traveling to new places, I believe experiences outside the classroom shape who I am just as much as my academic journey."
+  },
+  {
+    "objectID": "profile.html#lets-connect",
+    "href": "profile.html#lets-connect",
+    "title": "About Me",
+    "section": "",
+    "text": "Feel free to explore the rest of my portfolio or reach out via:\n\n📧 honganly@bu.edu\n\n🔗 LinkedIn – an-ly\n\n💻 GitHub – hongan2908\n\nI’d love to connect!"
+  }
+]
