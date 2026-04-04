@@ -8,6 +8,7 @@ toc: false
 
   <div class="hero-left">
     <h1>👋 Hi, I'm An Ly</h1>
+
     <p><em>“The world moves fast, but I lead with positivity.”</em></p>
 
     <p>
@@ -31,6 +32,7 @@ toc: false
 
   <div class="hero-right">
     <h1>&lt;Data&gt;</h1>
+
     <p>
       Skilled in analytics, visualization, and modeling to support strategic decision-making.
     </p>
@@ -40,6 +42,8 @@ toc: false
 
 ---
 
+<br>
+
 ## 💼 Experience
 
 Explore my work in data analytics, business strategy, and real-world problem solving.
@@ -48,6 +52,8 @@ Explore my work in data analytics, business strategy, and real-world problem sol
 
 ---
 
+<br>
+
 ## 📄 CV
 
 View my education, technical skills, and professional experience.
@@ -55,6 +61,8 @@ View my education, technical skills, and professional experience.
 [📄 View CV](cv.qmd){.button .btn-outline-primary}
 
 ---
+
+<br>
 
 ## 📬 Contact
 
