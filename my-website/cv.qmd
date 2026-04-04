@@ -3,55 +3,102 @@ title: "Resume"
 format: html
 ---
 
+<div style="text-align: center;">
+
+[📄 Download Full Resume (PDF)](AnLy_Resume.pdf){.button .btn-primary}
+
+</div>
+
+<br>
+
+<iframe src="AnLy_Resume.pdf" width="100%" height="650px" style="border: none;"></iframe>
+
+---
+
+<br>
+
 ## 🎓 Education
+
+<div class="card">
 
 **Boston University – Metropolitan College**  
 *M.S. in Applied Business Analytics*  
-_Expected: January 2026_
+Expected: January 2026  
+
+<br>
 
 **Suffolk University**  
 *B.S. in Business Administration (Global Business & Entrepreneurship)*  
-_Graduated: December 2023_
+Graduated: December 2023  
+
+</div>
 
 ---
 
-# 🧾 Professional Summary
+<br>
 
-Data-driven business analytics professional with hands-on experience in Python, SQL, and statistical modeling. Skilled in analyzing large datasets, building predictive models, and translating complex data into actionable business insights. Proven ability to support data-informed decision-making through analytical problem-solving, data visualization, and business-focused communication.
+## 🧾 Professional Summary
+
+<div class="card">
+
+Data-driven business analytics professional with experience in Python, SQL, and statistical modeling. Skilled in analyzing large datasets, building predictive models, and translating complex data into actionable business insights. Strong ability to support decision-making through data analysis, visualization, and business-focused communication.
+
+</div>
 
 ---
+
+<br>
 
 ## 💼 Experience Highlights
+
+<div class="card">
 
 - **Lam An LLC** – Supported supply chain operations and analyzed material usage trends to improve reporting and decision-making  
 - **Hang Thuan LLC** – Developed pricing strategies and managed client relationships, contributing to sales performance during market disruption  
 
+</div>
+
 ---
+
+<br>
 
 ## 🔬 Projects & Research
 
-- **Salary & Compensation Trends Analysis (Python, AWS)** – Analyzed 71,000+ job records to evaluate compensation patterns and workforce trends  
-- **Sales & Customer Analytics (SQL, Python)** – Analyzed 1,500+ transactions to identify revenue drivers and customer segments  
-- **Housing Market Analysis (R, Random Forest)** – Built predictive models to estimate property prices and support pricing strategy  
-- **MBTA System Analysis** – Identified opportunities for 10% cost reduction and 15% efficiency improvement using operational data  
-- **Microbrewery Investment Analysis** – Conducted financial modeling and feasibility analysis for a $150K business investment  
+<div class="card">
 
-(See full details on the [Projects page](projects.qmd))
+- **Salary & Compensation Trends Analysis (Python, AWS)** – Analyzed 71,000+ job records to evaluate compensation trends  
+- **Sales & Customer Analytics (SQL, Python)** – Analyzed 1,500+ transactions to identify revenue drivers  
+- **Housing Market Analysis (R, Random Forest)** – Built predictive models for pricing strategy  
+- **MBTA System Analysis** – Identified 10% cost reduction and 15% efficiency improvement opportunities  
+- **Microbrewery Investment Analysis** – Conducted financial feasibility analysis for a $150K investment  
+
+<br>
+
+👉 See full details on the [Experience page](experience.qmd)
+
+</div>
 
 ---
+
+<br>
 
 ## 💡 Skills
 
+<div class="card">
+
 **Technical:** Python, SQL, R, Excel, Tableau, Power BI, Quarto, GitHub  
 **Analytical:** Data Analysis, Forecasting, Statistical Modeling, Data Visualization, Business Strategy  
-**Languages:** English (Fluent), Vietnamese (Fluent)
+**Languages:** English (Fluent), Vietnamese (Fluent)  
+
+</div>
 
 ---
 
-## 🌐 Contact
+<br>
 
-📧 Email: honganly2908@gmail.com, honganly@bu.edu 
-📞 Phone: (857) 284-2121 
-🔗 LinkedIn: https://www.linkedin.com/in/an-ly  
-💻 GitHub: https://github.com/hongan2908
----
+<div style="text-align: center; margin-top: 20px;">
+
+<a href="experience.qmd" class="button btn-outline-primary">💼 View Experience</a>  
+<a href="contact.qmd" class="button btn-primary">📬 Contact Me</a>  
+
+</div>

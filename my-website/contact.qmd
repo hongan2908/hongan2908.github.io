@@ -3,20 +3,57 @@ title: "Contact"
 format: html
 ---
 
-# Contact Me
+## 📬 Contact
 
-### 📧 Email  
-- [honganly@bu.edu](mailto:honganly@bu.edu)  
-- [honganly2908@gmail.com](mailto:honganly2908@gmail.com)
+<br>
 
-### 📞 Phone 
+<div class="card" style="text-align: center;">
 
+<h3>Let’s connect</h3>
+
+<p>
+I’m always open to new opportunities, collaborations, and conversations.  
+Feel free to reach out — I’d love to connect.
+</p>
+
+<br>
+
+<p>
+📧 <strong>Email:</strong><br>
+<a href="mailto:honganly@bu.edu">honganly@bu.edu</a><br>
+<a href="mailto:honganly2908@gmail.com">honganly2908@gmail.com</a>
+</p>
+
+<br>
+
+<p>
+📞 <strong>Phone:</strong><br>
 (857) 284-2121
+</p>
 
-### 🔗 LinkedIn  
-- [linkedin.com/in/an-ly](https://www.linkedin.com/in/an-ly/) _(an-ly)_
+<br>
 
-### 💻 GitHub  
-- [github.com/hongan2908](https://github.com/hongan2908) _(hongan2908)_
+<p>
+🔗 <strong>LinkedIn:</strong><br>
+<a href="https://www.linkedin.com/in/an-ly/" target="_blank">linkedin.com/in/an-ly</a>
+</p>
 
-### 
+<br>
+
+<p>
+💻 <strong>GitHub:</strong><br>
+<a href="https://github.com/hongan2908" target="_blank">github.com/hongan2908</a>
+</p>
+
+</div>
+
+---
+
+<br>
+
+<div style="text-align: center; margin-top: 20px;">
+
+<a href="experience.qmd" class="button btn-outline-primary">💼 View Experience</a>  
+<a href="cv.qmd" class="button btn-outline-primary">📄 View CV</a>  
+
+</div>

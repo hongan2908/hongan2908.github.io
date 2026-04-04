@@ -1,79 +1,97 @@
 ---
-title: "About Me"
+title: "Background"
 format: html
 ---
 
 # 👋 Hi, I'm An Ly
 
-![An Ly – Profile Photo](profile.jpg){width=180px style="border-radius: 12px;"}
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="profile.jpg" width="220px"
+       style="border-radius: 50%; box-shadow: 0 6px 16px rgba(0,0,0,0.15);" />
+</div>
 
-I am an aspiring business analytics professional with hands-on experience in **data analysis, statistical modeling, and business intelligence**. I have worked with tools such as **Python, SQL, R, and data visualization platforms** to analyze large datasets, identify trends, and translate complex information into actionable business insights.
+I recently graduated with a Master’s degree in Applied Business Analytics from Boston University, with a foundation in Global Business and Entrepreneurship from Suffolk University. I have developed strong analytical and problem-solving skills through hands-on experience with data analysis, modeling, and business intelligence tools.
 
-I am particularly strong in analytical thinking, problem-solving, and communicating data-driven insights in a clear and business-focused manner. I thrive in environments that require critical thinking and continuous learning, and I am committed to further developing my technical and analytical capabilities through real-world applications.
+I am particularly interested in applying analytics within finance, marketing, and emerging technology environments. My focus is on translating complex data into clear, actionable insights that support strategic decision-making.
 
-I am open to opportunities across diverse industries and business functions, where I can contribute to data-driven decision-making and create meaningful impact.
+I am seeking opportunities where I can contribute to data-driven initiatives, apply my technical skills, and continue growing as a business analytics professional.
 
 ---
 
+<br>
+
 ## 🎯 What I’m Passionate About
 
-- 📊 Applying data analytics to solve business problems and optimize decision-making
-- 🌐 Exploring the role of data in improving efficiency, performance, and strategic outcomes across industries
-- 🧠 Actively expanding my expertise through practical experience, continuous learning, and engagement with the analytics community
+- 📊 Applying data analytics to solve business problems and optimize decision-making  
+- 🌐 Exploring how data improves efficiency, performance, and strategy across industries  
+- 🧠 Continuously learning through hands-on projects and real-world applications  
+
+---
+
+<br>
 
 ## ✨ Outside of Academics
 
 Outside of working with data, you’ll probably find me:
 
 - 🧳 Exploring new cultures and environments through travel and outdoor activities  
-- ⚽ Keeping up with soccer and enjoying live matches or highlights
+- ⚽ Keeping up with soccer and watching matches or highlights  
 - 🏀 Playing sports like soccer and basketball  
-- 🎙️ Tuning into podcasts about business, investing, or soccer news  
-- 🌱 Getting involved in student organizations, networking events, or community activities
+- 🎙️ Listening to podcasts about business, investing, and global trends  
+- 🌱 Participating in student organizations, networking events, and community activities  
 
 I’m always eager to learn, connect with like-minded individuals, and continuously grow both personally and professionally.
+
 ---
+
+<br>
 
 ## 📸 Moments That Matter
 
-Here are some snapshots of the amazing people and memories that keep me grounded, inspired, and motivated throughout my journey.
+Here are some snapshots of the people and experiences that keep me inspired and grounded.
 
-<div class="grid-gallery">
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
+:::: grid-gallery
+::: {style="margin-top:20px; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;"}
 
-<img src="friends_snow.jpg" alt="Winter with friends" style="width:100%; border-radius: 12px;" />
-<img src="hiking_group.jpg" alt="Hiking trip" style="width:100%; border-radius: 12px;" />
-<img src="volunteer_team.jpg" alt="Volunteering" style="width:100%; border-radius: 12px;" />
-<img src="tet_photo.jpg" alt="Tet celebration" style="width:100%; border-radius: 12px;" />
+<img src="friends_snow.jpg" alt="Winter with friends" style="width:100%; border-radius: 12px;"/>  
+<img src="hiking_group.jpg" alt="Hiking trip" style="width:100%; border-radius: 12px;"/>  
+<img src="volunteer_team.jpg" alt="Volunteering" style="width:100%; border-radius: 12px;"/>  
+<img src="tet_photo.jpg" alt="Tet celebration" style="width:100%; border-radius: 12px;"/>
 
-</div>
-</div>
+:::
+::::
 
 ---
+
+<br>
 
 ## 🏞️ Life Beyond the Classroom
 
 Whether I’m skiing in the winter, exploring art, or traveling to new places, I believe experiences outside the classroom shape who I am just as much as my academic journey.
 
-<div class="grid-gallery">
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;">
+:::: grid-gallery
+::: {style="margin-top:20px; display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 16px;"}
 
-<img src="ski_day.jpg" alt="Skiing adventure" style="width:100%; border-radius: 12px;" />
-<img src="museum_fun.jpg" alt="Museum curiosity" style="width:100%; border-radius: 12px;" />
-<img src="dc_trip.jpg" alt="Washington D.C. trip" style="width:100%; border-radius: 12px;" />
-<img src="fall_hike.jpg" alt="Hiking in fall" style="width:100%; border-radius: 12px;" />
+<img src="ski_day.jpg" alt="Skiing adventure" style="width:100%; border-radius: 12px;"/>  
+<img src="museum_fun.jpg" alt="Museum visit" style="width:100%; border-radius: 12px;"/>  
+<img src="dc_trip.jpg" alt="Washington D.C. trip" style="width:100%; border-radius: 12px;"/>  
+<img src="fall_hike.jpg" alt="Hiking in fall" style="width:100%; border-radius: 12px;"/>
 
-</div>
-</div>
+:::
+::::
 
 ---
 
+<br>
+
 ## 🤝 Let’s Connect
 
-Feel free to explore the rest of my portfolio or reach out via:
+Interested in working together or learning more about my background?
 
-- 📧 [honganly@bu.edu](mailto:honganly@bu.edu)  
-- 🔗 [LinkedIn – an-ly](https://www.linkedin.com/in/an-ly/)  
-- 💻 [GitHub – hongan2908](https://github.com/hongan2908)
+<div style="text-align: center; margin-top: 20px;">
 
-I'd love to connect!
+<a href="cv.qmd" class="button btn-outline-primary">📄 View CV</a>  
+<a href="experience.qmd" class="button btn-outline-primary">💼 View Experience</a>  
+<a href="contact.qmd" class="button btn-primary">📬 Contact Me</a>  
+
+</div>

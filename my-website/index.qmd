@@ -1,51 +1,63 @@
 ---
 title: "An Ly"
 format: html
-toc: true
+toc: false
 ---
 
-<div class="two-column">
+<div class="hero">
 
-<div class="text-block">
-  
-### 👋 Hi, I'm An Ly  
-_“The world moves fast, but I lead with positivity.”_
+  <div class="hero-left">
+    <h1>👋 Hi, I'm An Ly</h1>
+    <p><em>“The world moves fast, but I lead with positivity.”</em></p>
 
-I’m a graduate student in **Applied Business Analytics** at [Boston University](https://www.bu.edu), and I hold a Bachelor’s degree in **Global Business and Entrepreneurship** from [Suffolk University](https://www.suffolk.edu).
+    <p>
+      I’m a data-driven business analytics professional with experience in 
+      <strong>Python, SQL, and statistical modeling</strong>.
+      I specialize in transforming complex data into actionable business insights.
+    </p>
 
-I am passionate about leveraging data to support strategic decision-making and enhance organizational performance. My areas of interest include **Product analytics, Data visualization & dashboarding (e.g., Tableau, Power BI), Supply chain & operations analytics, Financial analytics & forecasting, Marketing analytics & customer insights, etc.**
+    <p>
+      I’m passionate about solving real-world problems and driving measurable impact through data.
+    </p>
 
-As an early-career professional, I am actively seeking opportunities where I can apply analytical thinking and technical skills to drive data-informed decisions and deliver measurable business impact.
+    <br>
+
+    <a href="profile.qmd" class="button btn-primary">📖 See More About Me</a>
+  </div>
+
+  <div class="hero-center">
+    <img src="anlyprofile.jpg" alt="An Ly" class="hero-img"/>
+  </div>
+
+  <div class="hero-right">
+    <h1>&lt;Data&gt;</h1>
+    <p>
+      Skilled in analytics, visualization, and modeling to support strategic decision-making.
+    </p>
+  </div>
 
 </div>
 
-<div class="image-block">
-  <img src="profile.jpg" alt="An Ly" class="profile-pic">
-  [📖 See More About Me](profile.qmd){.button .btn-primary}
-</div>
+---
 
-</div>
+## 💼 Experience
+
+Explore my work in data analytics, business strategy, and real-world problem solving.
+
+[📊 View Experience](experience.qmd){.button .btn-outline-primary}
 
 ---
 
-# 💼 Projects
+## 📄 CV
 
-Welcome to my project showcase! These projects demonstrate my skills in analytics, strategy, visualization, and business modeling.
-
-[📁 View Projects](projects.qmd){.button .btn-outline-primary}
-
----
-
-# 📄 CV
-
-Here's a summary of my education, experience, and technical skills.
+View my education, technical skills, and professional experience.
 
 [📄 View CV](cv.qmd){.button .btn-outline-primary}
 
 ---
 
-# 📬 Contact
+## 📬 Contact
 
-Let’s connect! I’m always open to new opportunities, collaborations, and conversations.
+I’m always open to new opportunities, collaborations, and professional connections.
 
 [📬 Contact Me](contact.qmd){.button .btn-outline-secondary}

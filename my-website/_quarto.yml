@@ -9,8 +9,8 @@ website:
     left:
       - text: Profile
         href: profile.qmd
-      - text: Projects
-        href: projects.qmd
+      - text: Experience
+        href: experience.qmd
       - text: Resume
         href: cv.qmd
       - text: Contact

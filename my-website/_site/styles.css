@@ -63,10 +63,10 @@ body {
      PROFILE IMAGE (Optional Use)
   ================================= */
   .profile-pic {
-    width: 160px;
+    width: 220px;
     max-width: 100%;
     height: auto;
-    border-radius: 50%;
+    border-radius: 60%;
     box-shadow: 0 4px 10px rgba(255, 255, 255, 0.2);
     margin-bottom: 1.5rem;
   }

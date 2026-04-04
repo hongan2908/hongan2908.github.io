@@ -1,59 +1,80 @@
 [
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
+    "objectID": "profile.html",
+    "href": "profile.html",
+    "title": "Personal",
     "section": "",
-    "text": "Boston, MA | Aug 2025 – Dec 2025 Tools: Python (Jupyter Notebook), SQL\n\nDeveloped and executed complex SQL queries within Python to extract and analyze data from a relational database\nAnalyzed 1,500+ sales transactions across customers, employees, and product categories\nEvaluated sales performance, revenue trends, and customer purchasing behavior\nBuilt dashboards and visualizations to highlight revenue drivers and customer segments\nTranslated analytical findings into actionable insights to support sales strategy and decision-making\n\n\n\n\n\nBoston, MA | Mar 2025 – May 2025 Tools: Python, AWS EC2, SQL, GitHub, VS Code\n\nAnalyzed 71,000+ job records to evaluate salary and compensation trends across industries, regions, and work arrangements\nDeployed a cloud-based analytics environment using AWS EC2 to enable scalable data processing\nConducted exploratory data analysis (EDA) to identify patterns in compensation, remote work trends, and geographic differences\nAssessed the impact of experience, role type, and technical skills on salary outcomes\nDeveloped analytical models for salary benchmarking and trend forecasting, delivering actionable workforce insights\n\n\n\n\n\nBoston, MA | Oct 2024 – Dec 2024 Tools: Power BI, Random Forest (R), Forecasting (R), Ggplot 2 (R), Predicting Modeling (R)\n\nAnalyzed 2,500+ residential property records to assess housing prices and demand trends\nBuilt and evaluated Random Forest models to estimate property values and identify key drivers\nPerformed forecasting to assess short-term market trends and expected sale outcomes\nCleaned and validated datasets to improve data quality and model performance\nDelivered insights to support pricing strategy and market segmentation\n\n\n\n\n\nBoston, MA | Jan 2025 – Mar 2025 Tools: Data Analysis, Cost-Benefit Analysis, Performance Metrics\n\nAnalyzed operational data from 50 bus routes to evaluate service reliability and delays\nIdentified opportunities for 10% cost reduction and 15% efficiency improvement\nDeveloped performance metrics and monitoring frameworks for transit operations\nIntegrated multiple data sources to support structured reporting\nProvided insights to support data-driven operational and planning decisions\n\n\n\n\n\nBoston, MA | Aug 2024 – Nov 2024 Tools: Financial Modeling, Break-Even Analysis, Sensitivity Analysis, Market Research\n\nConducted a 3-year financial feasibility analysis for a $150K investment in a microbrewery\nModeled production capacity of 476K+ pints annually and evaluated operational feasibility\nBuilt demand forecasts covering 400K+ projected units over three years\nPerformed market analysis and customer segmentation to support positioning strategy\nDelivered investment recommendations based on profitability and long-term growth potential"
+    "text": "An Ly – Photo\n\n\nI am an aspiring business analytics professional with hands-on experience in data analysis, statistical modeling, and business intelligence. I have worked with tools such as Python, SQL, R, and data visualization platforms to analyze large datasets, identify trends, and translate complex information into actionable business insights.\nI am particularly strong in analytical thinking, problem-solving, and communicating data-driven insights in a clear and business-focused manner. I thrive in environments that require critical thinking and continuous learning, and I am committed to further developing my technical and analytical capabilities through real-world applications.\nI am open to opportunities across diverse industries and business functions, where I can contribute to data-driven decision-making and create meaningful impact.\n\n\n\n\n📊 Applying data analytics to solve business problems and optimize decision-making\n🌐 Exploring the role of data in improving efficiency, performance, and strategic outcomes across industries\n🧠 Actively expanding my expertise through practical experience, continuous learning, and engagement with the analytics community\n\n\n\n\nOutside of working with data, you’ll probably find me:\n\n🧳 Exploring new cultures and environments through travel and outdoor activities\n\n⚽ Keeping up with soccer and enjoying live matches or highlights\n🏀 Playing sports like soccer and basketball\n\n🎙️ Tuning into podcasts about business, investing, or soccer news\n\n🌱 Getting involved in student organizations, networking events, or community activities\n\n\n\n\n\n\n\nHere are some snapshots of the amazing people and memories that keep me grounded, inspired, and motivated throughout my journey.\n\n\n   \n\n\n\n\n\n\nWhether I’m skiing in the winter, exploring art, or traveling to new places, I believe experiences outside the classroom shape who I am just as much as my academic journey.\n\n\n   \n\n\n\n\n\n\n📬 Contact Me\nI’d love to connect!"
   },
   {
-    "objectID": "projects.html#northwind-traders-sales-customer-analytics",
-    "href": "projects.html#northwind-traders-sales-customer-analytics",
-    "title": "Projects",
+    "objectID": "profile.html#what-im-passionate-about",
+    "href": "profile.html#what-im-passionate-about",
+    "title": "Personal",
     "section": "",
-    "text": "Boston, MA | Aug 2025 – Dec 2025 Tools: Python (Jupyter Notebook), SQL\n\nDeveloped and executed complex SQL queries within Python to extract and analyze data from a relational database\nAnalyzed 1,500+ sales transactions across customers, employees, and product categories\nEvaluated sales performance, revenue trends, and customer purchasing behavior\nBuilt dashboards and visualizations to highlight revenue drivers and customer segments\nTranslated analytical findings into actionable insights to support sales strategy and decision-making"
+    "text": "📊 Applying data analytics to solve business problems and optimize decision-making\n🌐 Exploring the role of data in improving efficiency, performance, and strategic outcomes across industries\n🧠 Actively expanding my expertise through practical experience, continuous learning, and engagement with the analytics community"
   },
   {
-    "objectID": "projects.html#salary-compensation-trends-analysis-u.s.-job-market",
-    "href": "projects.html#salary-compensation-trends-analysis-u.s.-job-market",
-    "title": "Projects",
+    "objectID": "profile.html#outside-of-academics",
+    "href": "profile.html#outside-of-academics",
+    "title": "Personal",
     "section": "",
-    "text": "Boston, MA | Mar 2025 – May 2025 Tools: Python, AWS EC2, SQL, GitHub, VS Code\n\nAnalyzed 71,000+ job records to evaluate salary and compensation trends across industries, regions, and work arrangements\nDeployed a cloud-based analytics environment using AWS EC2 to enable scalable data processing\nConducted exploratory data analysis (EDA) to identify patterns in compensation, remote work trends, and geographic differences\nAssessed the impact of experience, role type, and technical skills on salary outcomes\nDeveloped analytical models for salary benchmarking and trend forecasting, delivering actionable workforce insights"
+    "text": "Outside of working with data, you’ll probably find me:\n\n🧳 Exploring new cultures and environments through travel and outdoor activities\n\n⚽ Keeping up with soccer and enjoying live matches or highlights\n🏀 Playing sports like soccer and basketball\n\n🎙️ Tuning into podcasts about business, investing, or soccer news\n\n🌱 Getting involved in student organizations, networking events, or community activities"
   },
   {
-    "objectID": "projects.html#housing-market-price-demand-analysis-queens-new-york",
-    "href": "projects.html#housing-market-price-demand-analysis-queens-new-york",
-    "title": "Projects",
+    "objectID": "profile.html#moments-that-matter",
+    "href": "profile.html#moments-that-matter",
+    "title": "Personal",
     "section": "",
-    "text": "Boston, MA | Oct 2024 – Dec 2024 Tools: Power BI, Random Forest (R), Forecasting (R), Ggplot 2 (R), Predicting Modeling (R)\n\nAnalyzed 2,500+ residential property records to assess housing prices and demand trends\nBuilt and evaluated Random Forest models to estimate property values and identify key drivers\nPerformed forecasting to assess short-term market trends and expected sale outcomes\nCleaned and validated datasets to improve data quality and model performance\nDelivered insights to support pricing strategy and market segmentation"
+    "text": "Here are some snapshots of the amazing people and memories that keep me grounded, inspired, and motivated throughout my journey."
   },
   {
-    "objectID": "projects.html#mbta-system-analysis-reliability-efficiency-optimization",
-    "href": "projects.html#mbta-system-analysis-reliability-efficiency-optimization",
-    "title": "Projects",
+    "objectID": "profile.html#life-beyond-the-classroom",
+    "href": "profile.html#life-beyond-the-classroom",
+    "title": "Personal",
     "section": "",
-    "text": "Boston, MA | Jan 2025 – Mar 2025 Tools: Data Analysis, Cost-Benefit Analysis, Performance Metrics\n\nAnalyzed operational data from 50 bus routes to evaluate service reliability and delays\nIdentified opportunities for 10% cost reduction and 15% efficiency improvement\nDeveloped performance metrics and monitoring frameworks for transit operations\nIntegrated multiple data sources to support structured reporting\nProvided insights to support data-driven operational and planning decisions"
+    "text": "Whether I’m skiing in the winter, exploring art, or traveling to new places, I believe experiences outside the classroom shape who I am just as much as my academic journey."
   },
   {
-    "objectID": "projects.html#investment-feasibility-analysis-in-house-microbrewery",
-    "href": "projects.html#investment-feasibility-analysis-in-house-microbrewery",
-    "title": "Projects",
+    "objectID": "profile.html#lets-connect",
+    "href": "profile.html#lets-connect",
+    "title": "Personal",
     "section": "",
-    "text": "Boston, MA | Aug 2024 – Nov 2024 Tools: Financial Modeling, Break-Even Analysis, Sensitivity Analysis, Market Research\n\nConducted a 3-year financial feasibility analysis for a $150K investment in a microbrewery\nModeled production capacity of 476K+ pints annually and evaluated operational feasibility\nBuilt demand forecasts covering 400K+ projected units over three years\nPerformed market analysis and customer segmentation to support positioning strategy\nDelivered investment recommendations based on profitability and long-term growth potential"
+    "text": "📬 Contact Me\nI’d love to connect!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "An Ly",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "👋 Hi, I’m An Ly\n“The world moves fast, but I lead with positivity.”\nI’m a graduate student in Applied Business Analytics at Boston University, and I hold a Bachelor’s degree in Global Business and Entrepreneurship from Suffolk University.\nI am passionate about leveraging data to support strategic decision-making and enhance organizational performance. My areas of interest include Product analytics, Data visualization & dashboarding (e.g., Tableau, Power BI), Supply chain & operations analytics, Financial analytics & forecasting, Marketing analytics & customer insights, etc.\nAs an early-career professional, I am actively seeking opportunities where I can apply analytical thinking and technical skills to drive data-informed decisions and deliver measurable business impact.\n\n\n 📖 See More About Me\n\n\n\n\n💼 Projects\nWelcome to my project showcase! These projects demonstrate my skills in analytics, strategy, visualization, and business modeling.\n📁 View Projects\n\n\n\n📄 CV\nHere’s a summary of my education, experience, and technical skills.\n📄 View CV\n\n\n\n📬 Contact\nLet’s connect! I’m always open to new opportunities, collaborations, and conversations.\n📬 Contact Me"
+    "text": "(work / internships)\n\n\nBinh Duong, Vietnam | Dec 2023 – Aug 2024\n- Managed scheduling, travel coordination, and administrative operations for 5 supply chain managers, improving team efficiency and communication workflows\n- Handled ~100 daily inquiries across phone, email, and internal systems, ensuring timely response and accurate information flow\n- Analyzed usage trends for top 20 printing materials and compiled data-driven reports to support procurement and inventory planning\n- Prepared meeting agendas and background reports, translating operational data into actionable insights for decision-making\n\n\n\n\nBinh Duong, Vietnam | Oct 2021 – Aug 2022\n- Developed pricing and sales strategies for new product lines, contributing to the launch of 5+ new styles annually\n- Managed B2B client relationships and sales processes for 2 corporate accounts, closing 10 deals during a challenging market period\n- Monitored inventory levels and submitted ~5 weekly procurement orders to ensure supply continuity\n- Analyzed customer demand and market trends to support product positioning and sales strategy adjustments"
+  },
+  {
+    "objectID": "experience.html#experience",
+    "href": "experience.html#experience",
+    "title": "Experience",
+    "section": "",
+    "text": "(work / internships)\n\n\nBinh Duong, Vietnam | Dec 2023 – Aug 2024\n- Managed scheduling, travel coordination, and administrative operations for 5 supply chain managers, improving team efficiency and communication workflows\n- Handled ~100 daily inquiries across phone, email, and internal systems, ensuring timely response and accurate information flow\n- Analyzed usage trends for top 20 printing materials and compiled data-driven reports to support procurement and inventory planning\n- Prepared meeting agendas and background reports, translating operational data into actionable insights for decision-making\n\n\n\n\nBinh Duong, Vietnam | Oct 2021 – Aug 2022\n- Developed pricing and sales strategies for new product lines, contributing to the launch of 5+ new styles annually\n- Managed B2B client relationships and sales processes for 2 corporate accounts, closing 10 deals during a challenging market period\n- Monitored inventory levels and submitted ~5 weekly procurement orders to ensure supply continuity\n- Analyzed customer demand and market trends to support product positioning and sales strategy adjustments"
+  },
+  {
+    "objectID": "experience.html#projects",
+    "href": "experience.html#projects",
+    "title": "Experience",
+    "section": "📊 Projects",
+    "text": "📊 Projects\n(analytics projects)\n\nNorthwind Traders Sales & Customer Analytics\nBoston, MA | Aug 2025 – Dec 2025 Tools: Python (Jupyter Notebook), SQL\n\nDeveloped and executed complex SQL queries within Python to extract and analyze data from a relational database\nAnalyzed 1,500+ sales transactions across customers, employees, and product categories\nEvaluated sales performance, revenue trends, and customer purchasing behavior\nBuilt dashboards and visualizations to highlight revenue drivers and customer segments\nTranslated analytical findings into actionable insights to support sales strategy and decision-making\n\n\n\n\nSalary & Compensation Trends Analysis — U.S. Job Market\nBoston, MA | Mar 2025 – May 2025 Tools: Python, AWS EC2, SQL, GitHub, VS Code\n\nAnalyzed 71,000+ job records to evaluate salary and compensation trends across industries, regions, and work arrangements\nDeployed a cloud-based analytics environment using AWS EC2 to enable scalable data processing\nConducted exploratory data analysis (EDA) to identify patterns in compensation, remote work trends, and geographic differences\nAssessed the impact of experience, role type, and technical skills on salary outcomes\nDeveloped analytical models for salary benchmarking and trend forecasting, delivering actionable workforce insights\n\n\n\n\nHousing Market Price & Demand Analysis — Queens, New York\nBoston, MA | Oct 2024 – Dec 2024 Tools: Power BI, Random Forest (R), Forecasting (R), Ggplot 2 (R), Predicting Modeling (R)\n\nAnalyzed 2,500+ residential property records to assess housing prices and demand trends\nBuilt and evaluated Random Forest models to estimate property values and identify key drivers\nPerformed forecasting to assess short-term market trends and expected sale outcomes\nCleaned and validated datasets to improve data quality and model performance\nDelivered insights to support pricing strategy and market segmentation\n\n\n\n\nMBTA System Analysis — Reliability & Efficiency Optimization\nBoston, MA | Jan 2025 – Mar 2025 Tools: Data Analysis, Cost-Benefit Analysis, Performance Metrics\n\nAnalyzed operational data from 50 bus routes to evaluate service reliability and delays\nIdentified opportunities for 10% cost reduction and 15% efficiency improvement\nDeveloped performance metrics and monitoring frameworks for transit operations\nIntegrated multiple data sources to support structured reporting\nProvided insights to support data-driven operational and planning decisions\n\n\n\n\nInvestment Feasibility Analysis — In-House Microbrewery\nBoston, MA | Aug 2024 – Nov 2024 Tools: Financial Modeling, Break-Even Analysis, Sensitivity Analysis, Market Research\n\nConducted a 3-year financial feasibility analysis for a $150K investment in a microbrewery\nModeled production capacity of 476K+ pints annually and evaluated operational feasibility\nBuilt demand forecasts covering 400K+ projected units over three years\nPerformed market analysis and customer segmentation to support positioning strategy\nDelivered investment recommendations based on profitability and long-term growth potential"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Contact Me\n\n📧 Email\n\nhonganly@bu.edu\n\nhonganly2908@gmail.com\n\n\n\n📞 Phone\n\n284-2121\n\n\n\n🔗 LinkedIn\n\nlinkedin.com/in/an-ly (an-ly)\n\n\n\n💻 GitHub\n\ngithub.com/hongan2908 (hongan2908)"
+    "text": "📧 Email: honganly@bu.edu | honganly2908@gmail.com\n📞 Phone: (857) 284-2121\n🔗 LinkedIn: an-ly\n💻 GitHub: hongan2908"
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "📧 Email: honganly@bu.edu | honganly2908@gmail.com\n📞 Phone: (857) 284-2121\n🔗 LinkedIn: an-ly\n💻 GitHub: hongan2908"
   },
   {
     "objectID": "cv.html",
@@ -88,55 +109,34 @@
     "href": "cv.html#skills",
     "title": "Resume",
     "section": "💡 Skills",
-    "text": "💡 Skills\nTechnical: Python, SQL, R, Excel, Tableau, Power BI, Quarto, GitHub\nAnalytical: Data Analysis, Forecasting, Statistical Modeling, Data Visualization, Business Strategy\nLanguages: English (Fluent), Vietnamese (Fluent)"
+    "text": "💡 Skills\nTechnical: Python, SQL, R, Excel, Tableau, Power BI, Quarto, GitHub\nAnalytical: Data Analysis, Forecasting, Statistical Modeling, Data Visualization, Business Strategy\nLanguages: English (Fluent), Vietnamese (Fluent)\n\n📬 Contact Me"
   },
   {
-    "objectID": "cv.html#contact",
-    "href": "cv.html#contact",
-    "title": "Resume",
-    "section": "🌐 Contact",
-    "text": "🌐 Contact\n📧 Email: honganly2908@gmail.com, honganly@bu.edu 📞 Phone: (857) 284-2121 🔗 LinkedIn: https://www.linkedin.com/in/an-ly\n💻 GitHub: https://github.com/hongan2908 —"
-  },
-  {
-    "objectID": "profile.html",
-    "href": "profile.html",
-    "title": "About Me",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "An Ly",
     "section": "",
-    "text": "An Ly – Profile Photo\n\n\nI am an aspiring business analytics professional with hands-on experience in data analysis, statistical modeling, and business intelligence. I have worked with tools such as Python, SQL, R, and data visualization platforms to analyze large datasets, identify trends, and translate complex information into actionable business insights.\nI am particularly strong in analytical thinking, problem-solving, and communicating data-driven insights in a clear and business-focused manner. I thrive in environments that require critical thinking and continuous learning, and I am committed to further developing my technical and analytical capabilities through real-world applications.\nI am open to opportunities across diverse industries and business functions, where I can contribute to data-driven decision-making and create meaningful impact.\n\n\n\n\n📊 Applying data analytics to solve business problems and optimize decision-making\n🌐 Exploring the role of data in improving efficiency, performance, and strategic outcomes across industries\n🧠 Actively expanding my expertise through practical experience, continuous learning, and engagement with the analytics community\n\n\n\n\nOutside of working with data, you’ll probably find me:\n\n🧳 Exploring new cultures and environments through travel and outdoor activities\n\n⚽ Keeping up with soccer and enjoying live matches or highlights\n🏀 Playing sports like soccer and basketball\n\n🎙️ Tuning into podcasts about business, investing, or soccer news\n\n🌱 Getting involved in student organizations, networking events, or community activities\n\n\n\n\n\n\n\nHere are some snapshots of the amazing people and memories that keep me grounded, inspired, and motivated throughout my journey.\n\n\n   \n\n\n\n\n\n\nWhether I’m skiing in the winter, exploring art, or traveling to new places, I believe experiences outside the classroom shape who I am just as much as my academic journey.\n\n\n   \n\n\n\n\n\n\nFeel free to explore the rest of my portfolio or reach out via:\n\n📧 honganly@bu.edu\n\n🔗 LinkedIn – an-ly\n\n💻 GitHub – hongan2908\n\nI’d love to connect!"
+    "text": "“The world moves fast, but I lead with positivity.”\nI’m a data-driven business analytics graduate student with experience in Python, SQL, and statistical modeling. I specialize in analyzing complex datasets and transforming insights into actionable business decisions.\nI’m passionate about using data to solve real-world problems and improve organizational performance.\n\n\n 📖 See More About Me"
   },
   {
-    "objectID": "profile.html#what-im-passionate-about",
-    "href": "profile.html#what-im-passionate-about",
-    "title": "About Me",
-    "section": "",
-    "text": "📊 Applying data analytics to solve business problems and optimize decision-making\n🌐 Exploring the role of data in improving efficiency, performance, and strategic outcomes across industries\n🧠 Actively expanding my expertise through practical experience, continuous learning, and engagement with the analytics community"
+    "objectID": "index.html#experience-projects",
+    "href": "index.html#experience-projects",
+    "title": "An Ly",
+    "section": "💼 Experience & Projects",
+    "text": "💼 Experience & Projects\nExplore my work in data analytics, business strategy, and real-world problem solving.\n📊 View Experience"
   },
   {
-    "objectID": "profile.html#outside-of-academics",
-    "href": "profile.html#outside-of-academics",
-    "title": "About Me",
-    "section": "",
-    "text": "Outside of working with data, you’ll probably find me:\n\n🧳 Exploring new cultures and environments through travel and outdoor activities\n\n⚽ Keeping up with soccer and enjoying live matches or highlights\n🏀 Playing sports like soccer and basketball\n\n🎙️ Tuning into podcasts about business, investing, or soccer news\n\n🌱 Getting involved in student organizations, networking events, or community activities"
+    "objectID": "index.html#cv",
+    "href": "index.html#cv",
+    "title": "An Ly",
+    "section": "📄 CV",
+    "text": "📄 CV\nView my education, technical skills, and professional experience.\n📄 View CV"
   },
   {
-    "objectID": "profile.html#moments-that-matter",
-    "href": "profile.html#moments-that-matter",
-    "title": "About Me",
-    "section": "",
-    "text": "Here are some snapshots of the amazing people and memories that keep me grounded, inspired, and motivated throughout my journey."
-  },
-  {
-    "objectID": "profile.html#life-beyond-the-classroom",
-    "href": "profile.html#life-beyond-the-classroom",
-    "title": "About Me",
-    "section": "",
-    "text": "Whether I’m skiing in the winter, exploring art, or traveling to new places, I believe experiences outside the classroom shape who I am just as much as my academic journey."
-  },
-  {
-    "objectID": "profile.html#lets-connect",
-    "href": "profile.html#lets-connect",
-    "title": "About Me",
-    "section": "",
-    "text": "Feel free to explore the rest of my portfolio or reach out via:\n\n📧 honganly@bu.edu\n\n🔗 LinkedIn – an-ly\n\n💻 GitHub – hongan2908\n\nI’d love to connect!"
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "An Ly",
+    "section": "📬 Contact",
+    "text": "📬 Contact\nI’m always open to new opportunities, collaborations, and professional connections.\n📬 Contact Me"
   }
 ]
