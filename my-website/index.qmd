@@ -6,66 +6,60 @@ toc: false
 
 <div class="hero">
 
-  <div class="hero-left">
-    <h1>👋 Hi, I'm An Ly</h1>
+<div class="hero-left">
+<h1>👋 Hi, I'm An Ly</h1>
 
-    <p><em>“The world moves fast, but I lead with positivity.”</em></p>
+<p><em>“The world moves fast, but I lead with positivity.”</em></p>
 
-    <p>
-      I’m a data-driven business analytics professional with experience in 
-      <strong>Python, SQL, and statistical modeling</strong>.
-      I specialize in transforming complex data into actionable business insights.
-    </p>
+<p>
+I’m a data-driven business analytics professional with experience in 
+<strong>Python, SQL, and statistical modeling</strong>.
+I specialize in transforming complex data into actionable business insights.
+</p>
 
-    <p>
-      I’m passionate about solving real-world problems and driving measurable impact through data.
-    </p>
+<p>
+I’m passionate about solving real-world problems and driving measurable impact through data.
+</p>
 
-    <br>
+<br>
 
-    <a href="profile.qmd" class="button btn-primary">📖 See More About Me</a>
-  </div>
+<a href="profile.html" class="button btn-primary">📖 See More About Me</a>
+</div>
 
-  <div class="hero-center">
-    <img src="anlyprofile.jpg" alt="An Ly" class="hero-img"/>
-  </div>
+<div class="hero-center">
+<img src="anlyprofile.jpg" alt="An Ly" class="hero-img"/>
+</div>
 
-  <div class="hero-right">
-    <h1>&lt;Data&gt;</h1>
+<div class="hero-right">
+<h1>&lt;Data&gt;</h1>
 
-    <p>
-      Skilled in analytics, visualization, and modeling to support strategic decision-making.
-    </p>
-  </div>
+<p>
+Skilled in analytics, visualization, and modeling to support strategic decision-making.
+</p>
+</div>
 
 </div>
 
 ---
 
-<br>
-
 ## 💼 Experience
 
 Explore my work in data analytics, business strategy, and real-world problem solving.
 
-[📊 View Experience](experience.qmd){.button .btn-outline-primary}
+[📊 View Experience](experience.html){.button .btn-outline-primary}
 
 ---
-
-<br>
 
 ## 📄 CV
 
 View my education, technical skills, and professional experience.
 
-[📄 View CV](cv.qmd){.button .btn-outline-primary}
+[📄 View CV](cv.html){.button .btn-outline-primary}
 
 ---
-
-<br>
 
 ## 📬 Contact
 
 I’m always open to new opportunities, collaborations, and professional connections.
 
-[📬 Contact Me](contact.qmd){.button .btn-outline-secondary}
+[📬 Contact Me](contact.html){.button .btn-outline-secondary}
