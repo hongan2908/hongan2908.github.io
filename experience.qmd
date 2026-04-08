@@ -1,0 +1,114 @@
+---
+title: "Experience"
+format: html
+---
+
+## 💼 Experience
+
+<br>
+
+<div class="card">
+
+### **Lam An LLC – Administrative & Data Support Assistant**  
+*Binh Duong, Vietnam | Dec 2023 – Aug 2024*
+
+- Managed scheduling, travel coordination, and administrative operations for 5 supply chain managers, improving team efficiency and communication workflows  
+- Handled ~100 daily inquiries across multiple channels, ensuring timely communication and information flow  
+- Analyzed usage trends for top 20 printing materials to support procurement and inventory planning  
+- Prepared reports and meeting materials, translating operational data into actionable insights  
+
+</div>
+
+<div class="card">
+
+### **Hang Thuan LLC – Market Analysis Associate**  
+*Binh Duong, Vietnam | Oct 2021 – Aug 2022*
+
+- Developed pricing and sales strategies, contributing to the launch of 5+ product lines annually  
+- Managed B2B client relationships and sales processes, closing 10 deals during a challenging market period  
+- Monitored inventory and submitted weekly procurement orders to maintain supply continuity  
+- Analyzed customer demand and market trends to support product positioning  
+
+</div>
+
+---
+
+<br>
+
+## 📊 Projects
+
+<br>
+
+<div class="card">
+
+### **Northwind Traders Sales & Customer Analytics**  
+*Boston, MA | Aug 2025 – Dec 2025*  
+**Tools:** Python, SQL
+
+- Analyzed 1,500+ transactions across customers, employees, and product categories  
+- Evaluated revenue trends, sales performance, and customer behavior  
+- Built dashboards and visualizations to identify key business drivers  
+- Delivered insights to support data-driven sales strategy  
+
+</div>
+
+<div class="card">
+
+### **Salary & Compensation Trends Analysis — U.S. Job Market**  
+*Boston, MA | Mar 2025 – May 2025*  
+**Tools:** Python, AWS EC2, SQL, GitHub
+
+- Analyzed 71,000+ job records to identify compensation trends across industries  
+- Built a cloud-based analytics workflow using AWS EC2  
+- Conducted EDA on salary patterns, remote work, and geographic trends  
+- Developed models for salary benchmarking and forecasting  
+
+</div>
+
+<div class="card">
+
+### **Housing Market Analysis — Queens, New York**  
+*Boston, MA | Oct 2024 – Dec 2024*  
+**Tools:** R, Random Forest, Power BI
+
+- Analyzed 2,500+ property records to evaluate pricing and demand trends  
+- Built predictive models to estimate housing prices  
+- Performed forecasting to assess short-term market trends  
+- Delivered insights for pricing strategy and market segmentation  
+
+</div>
+
+<div class="card">
+
+### **MBTA System Analysis — Reliability & Efficiency Optimization**  
+*Boston, MA | Jan 2025 – Mar 2025*
+
+- Analyzed operational data from 50 bus routes to assess delays and reliability  
+- Identified opportunities for 10% cost reduction and 15% efficiency improvement  
+- Developed performance metrics and monitoring frameworks  
+- Supported data-driven transit planning decisions  
+
+</div>
+
+<div class="card">
+
+### **Investment Feasibility Analysis — Microbrewery**  
+*Boston, MA | Aug 2024 – Nov 2024*
+
+- Conducted financial analysis for a $150K investment  
+- Modeled production capacity of 476K+ units annually  
+- Built demand forecasts for 400K+ projected units  
+- Delivered strategic recommendations based on profitability and growth  
+
+</div>
+
+---
+
+<br>
+
+<div style="text-align: center; margin-top: 20px;">
+
+<a href="cv.qmd" class="button btn-outline-primary">📄 View CV</a>  
+<a href="contact.html" class="button btn-outline-primary">📬 Contact Me</a>  
+
+</div>

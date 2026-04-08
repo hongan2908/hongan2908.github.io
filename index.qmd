@@ -1,0 +1,71 @@
+---
+title: "An Ly"
+format: html
+toc: false
+---
+
+:::::: hero-modern
+::: hero-text
+<h1>Hi, I’m An Ly</h1>
+
+<p class="hero-quote">
+
+“The world moves fast, but I lead with positivity.”
+
+</p>
+
+<p class="hero-desc">
+
+I’m a data-driven business analytics professional with experience in <strong>Python, SQL, and statistical modeling</strong>. I specialize in transforming complex data into actionable insights.
+
+</p>
+:::
+
+::: hero-image
+<img src="anlyprofile.jpg" alt="An Ly"/>
+:::
+
+::: hero-side
+<h2 class="outline-text">
+
+DATA
+
+</h2>
+
+<p> Analytics • Visualization • Modeling  </p>
+
+<p>Driving smarter decisions through data.</p>
+:::
+::::::
+
+------------------------------------------------------------------------
+
+## 🚀 What I Do
+
+:::::: info-grid
+::: info-card
+📊 <strong>Data Analysis</strong><br> Turning raw data into meaningful insights
+:::
+
+::: info-card
+📈 <strong>Business Strategy</strong><br> Supporting decisions with data-driven thinking
+:::
+
+::: info-card
+🤖 <strong>Modeling</strong><br> Building predictive and analytical models
+:::
+::::::
+
+------------------------------------------------------------------------
+
+## 📬 Let’s Connect
+
+::: {style="text-align:center; margin-top:20px;"}
+<a href="profile.html" class="button btn-outline-primary">📖 Personal</a> 
+
+<a href="experience.html" class="button btn-outline-primary">💼 Experience</a> 
+
+<a href="cv.html" class="button btn-outline-primary">📄 View CV</a>\
+
+<a href="contact.html" class="button btn-outline-primary">📬 Contact Me</a>
+:::
