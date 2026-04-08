@@ -4,62 +4,68 @@ format: html
 toc: false
 ---
 
-<div class="hero">
+:::::: hero-modern
+::: hero-text
+<h1>Hi, I’m An Ly</h1>
 
-<div class="hero-left">
-<h1>👋 Hi, I'm An Ly</h1>
+<p class="hero-quote">
 
-<p><em>“The world moves fast, but I lead with positivity.”</em></p>
+“The world moves fast, but I lead with positivity.”
 
-<p>
-I’m a data-driven business analytics professional with experience in 
-<strong>Python, SQL, and statistical modeling</strong>.
-I specialize in transforming complex data into actionable business insights.
 </p>
 
-<p>
-I’m passionate about solving real-world problems and driving measurable impact through data.
+<p class="hero-desc">
+
+I’m a data-driven business analytics professional with experience in <strong>Python, SQL, and statistical modeling</strong>. I specialize in transforming complex data into actionable insights.
+
 </p>
+:::
 
-<br>
+::: hero-image
+<img src="anlyprofile.jpg" alt="An Ly"/>
+:::
 
-<a href="profile.html" class="button btn-primary">📖 See More About Me</a>
-</div>
+::: hero-side
+<h2 class="outline-text">
 
-<div class="hero-center">
-<img src="anlyprofile.jpg" alt="An Ly" class="hero-img"/>
-</div>
+DATA
 
-<div class="hero-right">
-<h1>&lt;Data&gt;</h1>
+</h2>
 
-<p>
-Skilled in analytics, visualization, and modeling to support strategic decision-making.
-</p>
-</div>
+<p> Analytics • Visualization • Modeling  </p>
 
-</div>
+<p>Driving smarter decisions through data.</p>
+:::
+::::::
 
----
+------------------------------------------------------------------------
 
-## 💼 Experience
+## 🚀 What I Do
 
-Explore my work in data analytics, business strategy, and real-world problem solving.
+:::::: info-grid
+::: info-card
+📊 <strong>Data Analysis</strong><br> Turning raw data into meaningful insights
+:::
 
-[📊 View Experience](experience.html){.button .btn-outline-primary}
+::: info-card
+📈 <strong>Business Strategy</strong><br> Supporting decisions with data-driven thinking
+:::
 
----
+::: info-card
+🤖 <strong>Modeling</strong><br> Building predictive and analytical models
+:::
+::::::
 
-## 📄 CV
+------------------------------------------------------------------------
 
-View my education, technical skills, and professional experience.
+## 📬 Let’s Connect
 
-[📄 View CV](cv.html){.button .btn-outline-primary}
+::: {style="text-align:center; margin-top:20px;"}
+<a href="profile.html" class="button btn-outline-primary">📖 Personal</a> 
 
----
+<a href="experience.html" class="button btn-outline-primary">💼 Experience</a> 
 
-## 📬 Contact
+<a href="cv.html" class="button btn-outline-primary">📄 View CV</a>\
 
-I’m always open to new opportunities, collaborations, and professional connections.
-
-[📬 Contact Me](contact.html){.button .btn-outline-secondary}
+<a href="contact.html" class="button btn-outline-primary">📬 Contact Me</a>
+:::
