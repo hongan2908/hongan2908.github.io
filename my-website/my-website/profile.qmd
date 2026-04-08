@@ -1,0 +1,198 @@
+---
+title: "Background"
+format: html
+---
+
+::: {.profile-hero}
+
+<div class="profile-left">
+  <img src="profile.jpg" class="profile-img"/>
+  <p class="profile-caption">Business Analytics Graduate | Data Analyst 📊</p>
+</div>
+
+<div class="profile-right">
+
+# 👋 Hi, I'm An Ly
+
+I recently graduated with a Master’s degree in Applied Business Analytics from Boston University, with a foundation in Global Business and Entrepreneurship from Suffolk University.
+
+I have developed strong analytical and problem-solving skills through hands-on experience with data analysis, modeling, and business intelligence tools.
+
+I am particularly interested in applying analytics within finance, marketing, and emerging technology environments.
+
+I am seeking opportunities where I can contribute to data-driven initiatives, apply my technical skills, and continue growing as a business analytics professional.
+
+</div>
+
+:::
+
+---
+
+## 🎯 What I’m Passionate About
+
+<div class="info-grid">
+
+<div class="info-card">
+📊 <strong>Data Analytics</strong><br>
+Applying analytics to solve business problems and improve decisions
+</div>
+
+<div class="info-card">
+🌐 <strong>Industry Impact</strong><br>
+Exploring how data improves efficiency and strategy across industries
+</div>
+
+<div class="info-card">
+🧠 <strong>Continuous Learning</strong><br>
+Growing through hands-on projects and real-world applications
+</div>
+
+</div>
+
+---
+
+## ✨ Outside of Academics
+
+<div class="info-grid">
+
+<div class="info-card">🧳 Traveling & exploring new environments</div>
+<div class="info-card">⚽ Following soccer & watching matches</div>
+<div class="info-card">🏀 Playing sports like soccer & basketball</div>
+<div class="info-card">🎙️ Listening to business & investing podcasts</div>
+<div class="info-card">🌱 Networking & community involvement</div>
+
+</div>
+
+<p style="margin-top:20px;">
+I’m always eager to learn, connect with like-minded individuals, and continuously grow both personally and professionally.
+</p>
+
+---
+
+## 📸 Moments That Matter
+
+::: {.carousel-container}
+
+<button class="nav-btn left-btn">&#10094;</button>
+
+::: {.carousel #carousel}
+
+::: {.card}
+<img src="friends_snow.jpg" class="gallery-img"/>
+<p>Winter with friends ❄️</p>
+
+:::
+
+::: {.card}
+<img src="hiking_group.jpg" class="gallery-img"/>
+<p>Hiking adventure 🏔️</p>
+
+:::
+
+::: {.card}
+<img src="volunteer_team.jpg" class="gallery-img"/>
+<p>Community volunteering 🤝</p>
+
+:::
+
+::: {.card}
+<img src="tet_photo.jpg" class="gallery-img"/>
+<p>Tet celebration 🌸</p>
+
+:::
+
+::: {.card}
+<img src="ski_day.jpg" class="gallery-img"/>
+<p>Ski day ⛷️</p>
+
+:::
+
+::: {.card}
+<img src="museum_fun.jpg" class="gallery-img"/>
+<p>Museum visit 🎨</p>
+
+:::
+
+::: {.card}
+<img src="dc_trip.jpg" class="gallery-img"/>
+<p>Washington D.C. 🇺🇸</p>
+
+:::
+
+::: {.card}
+<img src="fall_hike.jpg" class="gallery-img"/>
+<p>Fall hiking 🍂</p>
+
+:::
+
+:::
+
+<button class="nav-btn right-btn">&#10095;</button>
+
+:::
+
+<!-- MODAL -->
+<div id="imgModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="modalImg">
+</div>
+
+---
+
+## 🤝 Let’s Connect
+
+<div style="text-align: center; margin-top: 20px;">
+
+<a href="cv.qmd" class="button btn-outline-primary">📄 View CV</a>  
+
+<a href="experience.qmd" class="button btn-outline-primary">💼 View Experience</a>  
+
+<a href="contact.html" class="button btn-outline-primary">📬 Contact Me</a>
+
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+
+  const carousel = document.getElementById("carousel");
+  const leftBtn = document.querySelector(".left-btn");
+  const rightBtn = document.querySelector(".right-btn");
+
+  leftBtn.onclick = () => {
+    carousel.scrollBy({ left: -300, behavior: "smooth" });
+  };
+
+  rightBtn.onclick = () => {
+    carousel.scrollBy({ left: 300, behavior: "smooth" });
+  };
+
+  // AUTO SLIDE
+  setInterval(() => {
+    carousel.scrollBy({ left: 300, behavior: "smooth" });
+
+    if (carousel.scrollLeft + carousel.clientWidth >= carousel.scrollWidth) {
+      carousel.scrollTo({ left: 0, behavior: "smooth" });
+    }
+  }, 4000);
+
+  // MODAL
+  const modal = document.getElementById("imgModal");
+  const modalImg = document.getElementById("modalImg");
+
+  document.querySelectorAll(".gallery-img").forEach(img => {
+    img.onclick = function() {
+      modal.style.display = "flex";
+      modalImg.src = this.src;
+    };
+  });
+
+  document.querySelector(".close").onclick = () => {
+    modal.style.display = "none";
+  };
+
+  modal.onclick = (e) => {
+    if (e.target === modal) modal.style.display = "none";
+  };
+
+});
+</script>
