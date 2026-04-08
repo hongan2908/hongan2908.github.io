@@ -109,6 +109,6 @@ format: html
 <div style="text-align: center; margin-top: 20px;">
 
 <a href="cv.qmd" class="button btn-outline-primary">📄 View CV</a>  
-<a href="contact.qmd" class="button btn-primary">📬 Contact Me</a>  
+<a href="contact.html" class="button btn-outline-primary">📬 Contact Me</a>  
 
 </div>
